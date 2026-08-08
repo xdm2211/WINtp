@@ -1,6 +1,7 @@
 # WINtp —— NTP 时间同步客户端，更加快速的时间同步实现
 
 [![Latest Version](https://img.shields.io/github/v/release/lalakii/WINtp?logo=github)](https://github.com/lalakii/WINtp/releases)
+[![Downloads](https://img.shields.io/github/downloads/lalakii/WINtp/total)](https://github.com/lalakii/WINtp/releases)
 [![License: Apache-2.0 (shields.io)](https://img.shields.io/badge/License-Apache--2.0-c02041?logo=apache)](LICENSE)
 
 [<img alt="Download WINtp" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3814875" width=268></a>](https://sourceforge.net/projects/wintp/)
